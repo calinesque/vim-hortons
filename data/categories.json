@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "id": "category-1",
+      "name": "My Doughnuts Category"
+    },
+    {
+      "id": "category-2",
+      "name": "My Other Doughnuts Category"
+    }
+  ]
+}

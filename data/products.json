@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "product-1",
+      "title": "My Doughnut 1",
+      "description": "Lorem Ipsum?",
+      "price": 2.99,
+      "categoryId": "category-1"
+    },
+    {
+      "id": "product-2",
+      "title": "My Doughnut 2",
+      "description": "Lorem Ipsum?",
+      "price": 2.99,
+      "categoryId": "category-1"
+    },
+    {
+      "id": "product-3",
+      "title": "My Doughnut 3",
+      "description": "Lorem Ipsum?",
+      "price": 2.99,
+      "categoryId": "category-1"
+    }
+  ]
+}

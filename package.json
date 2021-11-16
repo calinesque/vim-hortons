@@ -1,0 +1,16 @@
+{
+  "name": "vim-hortons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TechQuarter",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
+}
